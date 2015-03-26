@@ -1,2 +1,2 @@
-# appstore
-App Store for Rackspace Cloud
+# Appstore
+Appstore for Rackspace Cloud
